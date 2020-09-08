@@ -14,7 +14,7 @@ I am a web developer passionate about creating intuitive and smooth user experie
 - Volunteering: I'm passionate about giving back and always looking for ways to build my community. Currently, I volunteer with Queer youth living in Seattle
 
 ## Get in touch 📫
-- email: DanielPrueDev@gmail.com
+- email: daniel@danielprue.com
 - LinkedIn: https://www.linkedin.com/in/daniel-prue
 
 <!--
