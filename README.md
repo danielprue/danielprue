@@ -9,9 +9,11 @@ I am a web developer passionate about creating intuitive and smooth user experie
 - Pay it forward, pay it back
 
 ## Ask me about 💬
-- Side Projects: I'm currently teaching myself to write Discord bots! My most recent one recognizes cats pictures and tells you which channel it belongs in
-- Volunteering: I'm passionate about giving back and always looking for ways to build my community. Currently, I volunteer with Queer youth living in Seattle
-- Gaming: I love Magic: the Gathering! I also currently play: Animal Crossing: New Horizons, Starcraft II, Final Fantasy IX
+- Side Projects: I'm currently teaching myself Functional Programming with [OCaml](https://ocaml.org)! I also tinker around with discord bots, including one that will 
+recognize and respond to images of cats.
+- Volunteering: I'm passionate about giving back and always looking for ways to build my community. Currently, I volunteer with Queer youth living in Seattle and 
+occassionally contribute to open source code
+- Gaming: I love Magic: the Gathering! I also currently play: Metal Gear Solid, Starcraft II, and Stardew Valley
 
 ## Get in touch 📫
 - email: daniel@danielprue.com
