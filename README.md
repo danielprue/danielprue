@@ -9,7 +9,7 @@ I am a web developer passionate about creating intuitive and smooth user experie
 - Pay it forward, pay it back
 
 ## Ask me about 💬
-- Side Projects: I'm currently teaching myself Functional Programming with [OCaml](https://ocaml.org)! I also tinker around with discord bots, including one that will 
+- Side Projects: I'm currently teaching myself Functional Programming with [OCaml](https://ocaml.org)! I also tinker around with [discord bots](https://github.com/danielprue/discord_bot_tutorial), including one that will 
 recognize and respond to images of cats.
 - Volunteering: I'm passionate about giving back and always looking for ways to build my community. Currently, I volunteer with Queer youth living in Seattle and 
 occassionally contribute to open source code
